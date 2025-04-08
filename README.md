@@ -71,7 +71,7 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 ## 📦 Repository Structure
 - **`cards/`** – PNG images of each particle card, suitable for digital play or preview.
 - **`main.tex`** – LaTeX source files for generating the PDFs. Modify card text, abilities, or add your own roles.
-- **`main.pdf`** – Print-ready PDFs with cards sized to standard **Magic: The Gathering** dimensions (63mm x 88mm).
+- **`MLMD_mafia.pdf`** – Print-ready PDFs with cards sized to standard **Magic: The Gathering** dimensions (63mm x 88mm).
 - **`image_generation_prompt.md`** - LLM prompt to generate more cards in a similar style.
 
 ---
