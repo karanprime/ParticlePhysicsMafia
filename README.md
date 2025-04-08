@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="cards/detective.png" width="200" alt="Detective Card"/><br/>
+  <img src="cards/godfather.png" width="200" alt="Anti-Down Card"/><br/>
+  <img src="cards/girl.png" width="200" alt="Neutrino"/>
+</p>
+
 # ⚛️ Particle Physics Mafia
 
 Welcome to **Particle Physics Mafia** – a chaotic social deduction game where the standard model meets good old-fashioned betrayal. Matter and antimatter are at war, and only clever deduction (or particle annihilation) will lead to victory.
@@ -8,9 +14,9 @@ Inspired by the classic Mafia/Werewolf party games, each player assumes the iden
 
 ## 🚀 Quick Start
 
-This is a **role-based social deduction game** for large groups, best with 15–25 players. Designed for in-person or online play (voice/video strongly recommended).
+This is a **role-based social deduction game** for large groups, best with 10–30 players.
 
-Each player is secretly assigned a particle role, drawn from either the **Matter** team (Town) or the **Antimatter** team (Mafia). The game alternates between **Unobserved Phases** (night) and **Observed Phases** (day), where players use abilities and vote to eliminate others.
+Each player is secretly assigned a particle role, drawn from either the **Matter** team (Town) or the **Antimatter** team (Mafia). Most of Matter is positively charge, most of Anti-Matter is negatively charged, but not all. The game alternates between **Unobserved Phases** (night) and **Observed Phases** (day), where players use abilities and vote to eliminate others.
 
 ---
 
