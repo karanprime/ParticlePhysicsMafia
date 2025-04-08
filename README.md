@@ -70,13 +70,24 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 
 ## 🛠️ LLM Usage
 
-All roles and their particle-flavored abilities were created by the team. We used **ChatGPT** to help:
+All roles and their particle-flavored abilities were created by the team. We used LLMs to help:
 
 - Generate card artwork based on role descriptions
 - Format the cards via LaTeX templates
 - Write this documentation and README
 
 The creativity and flavor are human-made, the polish and science puns are AI-assisted. ✨
+
+---
+
+## 👨‍🔬 Authors
+
+This game was created for the **MLMD CASUS Get-Together** by:
+
+**Bartosz Brzoza** and **Karan Shah**  
+_Machine Learning for Materials Discovery Group_  
+[Center for Advanced Systems Understanding (CASUS)](https://www.casus.science/)  
+Görlitz, Germany
 
 ---
 
