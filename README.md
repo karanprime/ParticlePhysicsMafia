@@ -14,12 +14,6 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 
 ---
 
-## 📦 Repository Structure
-- **`cards/`** – PNG images of each particle card, suitable for digital play or preview.
-- **`source/`** – LaTeX source files for generating the PDFs. Modify card text, abilities, or add your own roles.
-- **`pdfs/`** – Print-ready PDFs with cards sized to standard **Magic: The Gathering** dimensions (63mm x 88mm).
-
----
 
 ## 🧍‍♂️ Matter Roles (Town)
 - **Electron (x2)** – *Detective*: Learns the electric charge of a chosen particle.
@@ -65,6 +59,14 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 - **Gluon Bonding**: Secretly creates hadrons. Can select a trio of Up, Down Charm Quarks. If one dies, the others die too.
 - **Muon Mayhem**: Each Muon can force a lynch once per game.
 - **Charge Confusion**: Anti-Down particles appear positive when scanned by the Electron.
+
+---
+
+
+## 📦 Repository Structure
+- **`cards/`** – PNG images of each particle card, suitable for digital play or preview.
+- **`main.tex`** – LaTeX source files for generating the PDFs. Modify card text, abilities, or add your own roles.
+- **`main.pdf`** – Print-ready PDFs with cards sized to standard **Magic: The Gathering** dimensions (63mm x 88mm).
 
 ---
 
