@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="cards/detective.png" width="200" alt="Detective Card"/><br/>
-  <img src="cards/godfather.png" width="200" alt="Anti-Down Card"/><br/>
-  <img src="cards/girl.png" width="200" alt="Neutrino"/>
+  <img src="cards/readme_header.jpg" width="600" alt="Particle Physics Mafia Header"/>
 </p>
+
 
 # ⚛️ Particle Physics Mafia
 
