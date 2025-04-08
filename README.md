@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cards/readme_header.jpg" width="600" alt="Particle Physics Mafia Header"/>
+  <img src="cards/readme_header.jpg" width="1000" alt="Particle Physics Mafia Header"/>
 </p>
 
 
