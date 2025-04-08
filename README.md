@@ -1,6 +1,6 @@
-# 🧪 Particle Physics Mafia
+# ⚛️ Particle Physics Mafia
 
-Welcome to **Particle Physics Mafia** – a chaotic social deduction game where quantum uncertainty meets good old-fashioned betrayal. Matter and antimatter are at war, and only clever deduction (or particle annihilation) will lead to victory.
+Welcome to **Particle Physics Mafia** – a chaotic social deduction game where the standard model meets good old-fashioned betrayal. Matter and antimatter are at war, and only clever deduction (or particle annihilation) will lead to victory.
 
 Inspired by the classic Mafia/Werewolf party games, each player assumes the identity of a subatomic particle, complete with unique abilities. Your job? Either uncover the lurking antimatter or bring all of matter to decay.
 
@@ -56,13 +56,13 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 ### Win Conditions
 - **Matter wins** when all Antimatter particles are eliminated.
 - **Antimatter wins** when they equal or outnumber Matter.
-- **Optional**: If Gluon-bonded lovers are alive at the end, they win together.
+- **Optional**: If Gluon-bonded quarks are alive at the end, they win together.
 
 ---
 
 ## 🧠 Optional Rules
 
-- **Gluon Bonding**: Secretly pair players. If one dies, the other does too.
+- **Gluon Bonding**: Secretly creates hadrons. Can select a trio of Up, Down Charm Quarks. If one dies, the others die too.
 - **Muon Mayhem**: Each Muon can force a lynch once per game.
 - **Charge Confusion**: Anti-Down particles appear positive when scanned by the Electron.
 
