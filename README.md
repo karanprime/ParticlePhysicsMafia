@@ -45,7 +45,7 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 
 ### Observed Phase (Day)
 - Players debate and vote on whom to send to the **Collider** (lynch).
-- Majority vote removes a particle from the game.
+- Majority vote causes a particle to decay (removed from the game).
 - Their role is revealed.
 
 ### Unobserved Phase (Night)
