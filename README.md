@@ -73,10 +73,9 @@ Each player is secretly assigned a particle role, drawn from either the **Matter
 All roles and their particle-flavored abilities were created by the team. We used LLMs to help:
 
 - Generate card artwork based on role descriptions
-- Format the cards via LaTeX templates
-- Write this documentation and README
+- Write this README
 
-The creativity and flavor are human-made, the polish and science puns are AI-assisted. ✨
+The creativity and flavor are human-made, the visuals are AI-assisted. ✨
 
 ---
 
