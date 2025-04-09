@@ -1,0 +1,106 @@
+\documentclass[a4paper]{article}
+\usepackage[margin=0.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{float}
+\usepackage[table]{xcolor}
+
+\newlength{\cardW}
+\newlength{\cardH}
+\setlength{\cardW}{6.35cm}
+\setlength{\cardH}{8.89cm}
+
+\setlength{\arrayrulewidth}{0.2mm}
+\arrayrulecolor{white}
+\setlength{\tabcolsep}{0pt}
+\renewcommand{\arraystretch}{1.0}
+
+# This can probably be automated better later
+
+\newcommand{\cardA}{cards/boss.png}
+\newcommand{\cardB}{cards/detective.png}
+\newcommand{\cardC}{cards/doctor.png}
+\newcommand{\cardD}{cards/godfather.png}
+\newcommand{\cardE}{cards/girl.png}
+\newcommand{\cardF}{cards/insane.png}
+\newcommand{\cardG}{cards/jailer.png}
+\newcommand{\cardJ}{cards/peeker.png}
+\newcommand{\cardI}{cards/vigilante.png}
+
+\newcommand{\fA}{cards/4lover.png}
+\newcommand{\fB}{cards/4outsider.png}
+\newcommand{\fC}{cards/4thug.png}
+\newcommand{\fD}{cards/4villager.png}
+\newcommand{\fE}{cards/4villager2.png}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|}
+    \includegraphics[width=\cardW,height=\cardH]{\cardA} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardB} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardC} \\
+    \includegraphics[width=\cardW,height=\cardH]{\cardD} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardE} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardF} \\
+    \includegraphics[width=\cardW,height=\cardH]{\cardG} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardJ} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardI} \\
+\end{tabular}
+\end{figure}
+
+
+\newpage
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|}
+    \includegraphics[width=\cardW,height=\cardH]{\fA} &
+    \includegraphics[width=\cardW,height=\cardH]{\fA} &
+    \includegraphics[width=\cardW,height=\cardH]{\fA} \\
+    \includegraphics[width=\cardW,height=\cardH]{\fA} &
+    \includegraphics[width=\cardW,height=\cardH]{\fB} &
+    \includegraphics[width=\cardW,height=\cardH]{\fB} \\
+    \includegraphics[width=\cardW,height=\cardH]{\fB} &
+    \includegraphics[width=\cardW,height=\cardH]{\fB} &
+    \includegraphics[width=\cardW,height=\cardH]{\fC} \\
+\end{tabular}
+\end{figure}
+
+
+\newpage
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|}
+    \includegraphics[width=\cardW,height=\cardH]{\fC} &
+    \includegraphics[width=\cardW,height=\cardH]{\fC} &
+    \includegraphics[width=\cardW,height=\cardH]{\fC} \\
+    \includegraphics[width=\cardW,height=\cardH]{\fD} &
+    \includegraphics[width=\cardW,height=\cardH]{\fD} &
+    \includegraphics[width=\cardW,height=\cardH]{\fD} \\
+    \includegraphics[width=\cardW,height=\cardH]{\fD} &
+    \includegraphics[width=\cardW,height=\cardH]{\fE} &
+    \includegraphics[width=\cardW,height=\cardH]{\fE} \\
+\end{tabular}
+\end{figure}
+
+\newpage
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|>{\centering\arraybackslash}m{\cardW}|}
+    \includegraphics[width=\cardW,height=\cardH]{\fE} &
+    \includegraphics[width=\cardW,height=\cardH]{\fE} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardB} \\
+    \includegraphics[width=\cardW,height=\cardH]{\cardD} &
+    \includegraphics[width=\cardW,height=\cardH]{\cardF} &
+    \includegraphics[width=\cardW,height=\cardH]{\fA} \\
+    \includegraphics[width=\cardW,height=\cardH]{\fB} &
+    \includegraphics[width=\cardW,height=\cardH]{\fE} &
+    \includegraphics[width=\cardW,height=\cardH]{\fD} \\
+\end{tabular}
+\end{figure}
+\end{document}
